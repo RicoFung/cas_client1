@@ -1,5 +1,9 @@
 <%@ page language="java" pageEncoding="UTF-8"%>
-<%
-String path = request.getContextPath()+"/admin/home/get.action";
-response.sendRedirect(path);
-%>
+<html>
+<header>
+	<title>cas_client1</title>
+</header>
+<body>
+	<h1>cas_client1</h1>
+</body>
+</html>
